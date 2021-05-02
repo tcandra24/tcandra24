@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tcandra24
-- 👀 I’m interested in Javascript, Python, And PHP
+- 👀 I’m interested in Javascript, Python, VB.NET And PHP
 - 🌱 I’m currently learning Vue, Javascript And Laravel
 - 💞️ I’m looking to collaborate on Open Source Project use Javascript
 
