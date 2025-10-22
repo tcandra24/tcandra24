@@ -20,3 +20,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tcandra24&icon=0&color=1)](https://visitcount.itsvg.in)
 
+### Badges
+[![An image of @tcandra24 Holopin badges](https://holopin.me/tcandra24)](https://holopin.io/@tcandra24)
+
+
